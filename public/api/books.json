@@ -1,0 +1,228 @@
+{
+  "books": [
+    {
+      "code": 101,
+      "name": "Call of The Wild",
+      "author": "Jack London",
+      "stars": 4,
+      "price": 33.32,
+      "genre": 100
+    },
+    {
+      "code": 102,
+      "name": "Dark Instincts",
+      "author": "Suzanne Wright",
+      "stars": 3,
+      "price": 23.32,
+      "genre": 100
+    },
+    {
+      "code": 201,
+      "name": "After the end of Art",
+      "author": "Arthur C. Danto",
+      "stars": 3,
+      "price": 8.32,
+      "genre": 200
+    },
+    {
+      "code": 202,
+      "name": "The Art Thief",
+      "author": "Noah Charney",
+      "stars": 2,
+      "price": 2.32,
+      "genre": 200
+    },
+    {
+      "code": 301,
+      "name": "Hungry Jim",
+      "author": "Laurel Snyder",
+      "stars": 2,
+      "price": 5.47,
+      "genre": 300
+    },
+    {
+      "code": 302,
+      "name": "Rabbit & Bear",
+      "author": "Julian G. & Jim F.",
+      "stars": 3,
+      "price": 4.47,
+      "genre": 300
+    },
+    {
+      "code": 401,
+      "name": "Brunch Life",
+      "author": "Matt B. & Kyla Z.",
+      "stars": 5,
+      "price": 5.47,
+      "genre": 400
+    },
+    {
+      "code": 402,
+      "name": "Cooking By Step",
+      "author": "D.K.",
+      "stars": 3,
+      "price": 12.32,
+      "genre": 400
+    },
+    {
+      "code": 501,
+      "name": "Prince Of Tthorns",
+      "author": "Mark Lawrence",
+      "stars": 5,
+      "price": 32.47,
+      "genre": 500
+    },
+    {
+      "code": 502,
+      "name": "Red Sister",
+      "author": "Mark Lawrence",
+      "stars": 4,
+      "price": 12.47,
+      "genre": 500
+    },
+    {
+      "code": 601,
+      "name": "all Good Things",
+      "author": "Rosemary Reeve",
+      "stars": 4,
+      "price": 9.47,
+      "genre": 600
+    },
+    {
+      "code": 602,
+      "name": "An Orphans War",
+      "author": "Molly Green",
+      "stars": 4,
+      "price": 9.47,
+      "genre": 600
+    },
+    {
+      "code": 603,
+      "name": "Putting the Science in Fiction",
+      "author": "Dan Koboldt",
+      "stars": 3,
+      "price": 8.37,
+      "genre": 600
+    },
+    {
+      "code": 604,
+      "name": "The Solar War",
+      "author": "A.G. Riddle",
+      "stars": 3,
+      "price": 9.3,
+      "genre": 600
+    },
+    {
+      "code": 701,
+      "name": "I am Legend",
+      "author": "Richard Matheson",
+      "stars": 5,
+      "price": 32.17,
+      "genre": 700
+    },
+    {
+      "code": 702,
+      "name": "The Cabin at the End of the World",
+      "author": "Paul Tremblaly",
+      "stars": 5,
+      "price": 23.47,
+      "genre": 700
+    },
+    {
+      "code": 703,
+      "name": "The Outsider",
+      "author": "Stephen King",
+      "stars": 3,
+      "price": 4.37,
+      "genre": 700
+    },
+    {
+      "code": 801,
+      "name": "More Than Words",
+      "author": "Jill Santopolo",
+      "stars": 2,
+      "price": 8.47,
+      "genre": 800
+    },
+    {
+      "code": 802,
+      "name": "Animal Farm",
+      "author": "George Orwell",
+      "stars": 5,
+      "price": 31.47,
+      "genre": 800
+    },
+    {
+      "code": 803,
+      "name": "The Inferno",
+      "author": "Dante Alighieri",
+      "stars": 4,
+      "price": 9.42,
+      "genre": 800
+    },
+    {
+      "code": 804,
+      "name": "The Husband's Secret",
+      "author": "Liane Moriarty",
+      "stars": 2,
+      "price": 4.43,
+      "genre": 800
+    },
+    {
+      "code": 805,
+      "name": "The World of Ice and Fire",
+      "author": "George R.R Martin",
+      "stars": 5,
+      "price": 3.47,
+      "genre": 800
+    },
+    {
+      "code": 806,
+      "name": "All Light We Cannot See",
+      "author": "Anthony Doerr",
+      "stars": 3,
+      "price": 28.47,
+      "genre": 800
+    },
+    {
+      "code": 901,
+      "name": "All Your Perfects",
+      "author": "Collen Hoover",
+      "stars": 2,
+      "price": 4.17,
+      "genre": 900
+    },
+    {
+      "code": 902,
+      "name": "Chilled",
+      "author": "Kendra Elliot",
+      "stars":35,
+      "price": 4.27,
+      "genre": 900
+    },
+    {
+      "code": 1001,
+      "name": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "stars": 3,
+      "price": 13.47,
+      "genre": 1000
+    },
+    {
+      "code": 1002,
+      "name": "Devils kindon",
+      "author": "Scott Mariani",
+      "stars": 3,
+      "price": 8.47,
+      "genre": 1000
+    },
+    {
+      "code": 1003,
+      "name": "The Silence of the Lambs",
+      "author": "Thomas Harris",
+      "stars": 5,
+      "price": 34.47,
+      "genre": 1000
+    }
+  ]
+}

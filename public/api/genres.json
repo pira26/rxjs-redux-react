@@ -1,0 +1,44 @@
+{
+  "genres": [
+    {
+      "code": 100,
+      "genre": "Adventure"
+    },
+    {
+      "code": 200,
+      "genre": "Art"
+    },
+    {
+      "code": 300,
+      "genre": "Children"
+    },
+    {
+      "code": 400,
+      "genre": "Cooking"
+    },
+    {
+      "code": 500,
+      "genre": "Fantasy"
+    },
+    {
+      "code": 600,
+      "genre": "Fiction"
+    },
+    {
+      "code": 700,
+      "genre": "Horror"
+    },
+    {
+      "code": 800,
+      "genre": "Novel"
+    },
+    {
+      "code": 900,
+      "genre": "Romance"
+    },
+    {
+      "code": 1000,
+      "genre": "Thriller"
+    }
+  ]
+}
